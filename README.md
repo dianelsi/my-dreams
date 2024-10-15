@@ -1,2 +1,2 @@
 # my-dreams
-Minhas aspirações para meu futuro.
+Minhas aspirações para o meu futuro.
